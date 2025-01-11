@@ -25,6 +25,8 @@ class ZeGoScreen extends StatelessWidget {
             ZegoMenuBarButtonName.hangUpButton,
             ZegoMenuBarButtonName.toggleMicrophoneButton, // Mute button
             ZegoMenuBarButtonName.toggleCameraButton,
+            ZegoMenuBarButtonName.switchCameraButton,
+
             // Call End button
           ],
         ),
